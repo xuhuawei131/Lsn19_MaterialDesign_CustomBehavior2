@@ -1,0 +1,247 @@
+[
+    {
+        "outputFile": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 70,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 82,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 119,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 62,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2456
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2461,
+                    "endColumn": 62,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 131,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            }
+        ]
+    }
+]
